@@ -1,14 +1,18 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.01f6b190.css",
-    "main.js": "/My-Portfolio/static/js/main.201593b5.js",
+    "main.js": "/My-Portfolio/static/js/main.e177930e.js",
     "static/js/787.93bfac2d.chunk.js": "/My-Portfolio/static/js/787.93bfac2d.chunk.js",
-    "static/media/05.jpg": "/My-Portfolio/static/media/05.12e12912acfc2da2a1c7.jpg",
-    "static/media/02.jpg": "/My-Portfolio/static/media/02.c80c344359667960dbd7.jpg",
-    "static/media/01.jpg": "/My-Portfolio/static/media/01.db412e2562dcf977093e.jpg",
-    "static/media/06.jpg": "/My-Portfolio/static/media/06.c1a7353bc92b596ab252.jpg",
-    "static/media/03.jpg": "/My-Portfolio/static/media/03.b2652f01797d4d8041d0.jpg",
-    "static/media/04.jpg": "/My-Portfolio/static/media/04.25a9b1ec1501063a8d28.jpg",
+    "static/media/blanchard.png": "/My-Portfolio/static/media/blanchard.bef819387e2331f0fc60.png",
+    "static/media/meals_app.png": "/My-Portfolio/static/media/meals_app.41853027408323d65443.png",
+    "static/media/vk_marusya.png": "/My-Portfolio/static/media/vk_marusya.1fe0413089dccecc8346.png",
+    "static/media/lagoona.png": "/My-Portfolio/static/media/lagoona.6fa496891eb5f5704ec3.png",
+    "static/media/google_maps_app.png": "/My-Portfolio/static/media/google_maps_app.6e3e751ca265b15542b7.png",
+    "static/media/foodi.png": "/My-Portfolio/static/media/foodi.414f9303186465d5ad68.png",
+    "static/media/spotify_clone.png": "/My-Portfolio/static/media/spotify_clone.5ef191c21c157876183a.png",
+    "static/media/realtime_weather_app.png": "/My-Portfolio/static/media/realtime_weather_app.e78176d43d882406c679.png",
+    "static/media/dashboard.png": "/My-Portfolio/static/media/dashboard.9489059dc010727d846a.png",
+    "static/media/crm.png": "/My-Portfolio/static/media/crm.8e0f298fd2173041939a.png",
     "static/media/header-bg.png": "/My-Portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
     "static/media/sun.svg": "/My-Portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/My-Portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
@@ -18,11 +22,11 @@
     "static/media/twitter.svg": "/My-Portfolio/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
     "index.html": "/My-Portfolio/index.html",
     "main.01f6b190.css.map": "/My-Portfolio/static/css/main.01f6b190.css.map",
-    "main.201593b5.js.map": "/My-Portfolio/static/js/main.201593b5.js.map",
+    "main.e177930e.js.map": "/My-Portfolio/static/js/main.e177930e.js.map",
     "787.93bfac2d.chunk.js.map": "/My-Portfolio/static/js/787.93bfac2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01f6b190.css",
-    "static/js/main.201593b5.js"
+    "static/js/main.e177930e.js"
   ]
 }
