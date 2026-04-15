@@ -13,12 +13,12 @@ const Header = () => {
 				<div className="header__text">
 					<p>with passion for learning and creating.</p>
 				</div>
-				<a href="https://disk.yandex.ru/i/eAGsLljdxjaClw" target="_blank" rel="noreferrer" className="btn">
+				<a href="https://disk.yandex.ru/i/eMZxsstcRZ0UlQ" target="_blank" rel="noreferrer" className="btn">
 					View CV
 				</a>
 			</div>
 		</header>
 	);
-}
+};
 
 export default Header;
